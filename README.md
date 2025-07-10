@@ -3,6 +3,7 @@
 **SUSTECH EE207-17L project**
 
 **南方科技大学数字电路实验课项目**
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=6008275743338740213 skey=@crypt_32a4aae9_4adb4c269953d5da2a1b9229b597cc92 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/12af32a3-4913-4e6b-9975-b212cd61e74d)
 
 ## 介绍
 本项目是一个以stm32f103c8t6作为主控，基于HAL库，通过惯性导航确定停车位置的小车。具体逻辑是小车在行驶固定距离后进行检测，检测到距离大于某个临界值时便开始倒车。
